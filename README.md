@@ -2,9 +2,9 @@
 - 👀 I’m interested in front end programming and graphic desing.
 - 🌱 I’m currently learning HTML, CSS, Javascript, React and a little bit of phyton.
 - 📫 How to reach me:
-       👉 Mail: luisfroquez@gmail.com
-       👉 Whatsapp: +54 9 11 5640 3315
-       👉 linkedin/in/luisfroquez
+-  👉 Mail: luisfroquez@gmail.com
+-  👉 Whatsapp: +54 9 11 5640 3315
+-  👉 linkedin/in/luisfroquez
        
 
 <!---
