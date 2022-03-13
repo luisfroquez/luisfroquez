@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 -  👉 Mail: luisfroquez@gmail.com
 -  👉 Whatsapp: +54 9 11 5640 3315
--  👉 <a href="www.linkedin/in/luisfroquez"> Linkedin </a>
+-  👉 <a href="https://www.linkedin.com/in/luisfroquez/"> Linkedin </a>
        
 
 <!---
