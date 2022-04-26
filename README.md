@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/zacata"><img src="https://api.daily.dev/devcards/d7b4039e7bd0458ea831c66a77b419d8.png?r=sma" width="400" alt="Luis Roque's Dev Card"/></a>
+
 - 👋 Hi, I’m @luisfroquez, a non-conformist venezuelan guy living in Argentina.
 - 👀 I’m interested in front end programming and graphic desing.
 - 🌱 I’m currently learning HTML, CSS, Javascript, React and a little bit of phyton.
