@@ -10,7 +10,7 @@ I'm **Luis Roque**. Software Developer at <a href="https://www.linkedin.com/comp
 
 Graphic designer and Blockchain world enthusiast.
 
-**Skilled in React JS, React Native, NodeJS, HTML, CSS, AI, PSD to WordPress, PSD to HTML, User Experience, C++, Phyton, and WordPress.**
+**Skilled in TypeScript, JavaScript, React JS, React Native, NodeJS, HTML, CSS, AI, PSD to WordPress, PSD to HTML, User Experience, C++, Phyton, and WordPress.**
 
 I'm studying Systems Engineering at the National Technological University (UTN) and actively training on Web Development💻, doing several courses/certifications and personal projects.
 
