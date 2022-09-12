@@ -4,7 +4,7 @@
 ## Hi there 👋
 [![Linkedin: Luis Roque](https://img.shields.io/badge/-Roque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/luisfroquez/)
 [![GitHub Luis Roque](https://img.shields.io/github/followers/luisfroquez?label=follow&style=social)](https://github.com/luisfroquez)
-![Twitter Follow](https://img.shields.io/twitter/follow/lroque.dev?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/zacata_dev?style=social)
 
 I'm **Luis Roque**. Software Developer at <a href="https://www.linkedin.com/company/bechem-sudamerika-lubricantes/mycompany/" target="_blank"> Bechem Sudamerika.</a>
 
@@ -26,7 +26,7 @@ I master the necessary tools and I am passionate about learning every day about 
 - 💬 Ask me about **Graphic Design and front end development**
 - 💼 [My portfolio website](https://roque-site.vercel.app/)
 - 📫 Let's be social:
-  **[Twitter](https://twitter.com/lroque.dev), [Instagram](https://instagram.com/luisfroquez)**
+  **[Twitter](https://twitter.com/zacata_dev), [Instagram](https://instagram.com/luisfroquez)**
     
  ## Some stats 📊
 
