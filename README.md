@@ -4,11 +4,9 @@
 ## Hi there 👋
 [![Linkedin: Luis Roque](https://img.shields.io/badge/-Roque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/luisfroquez/)
 [![GitHub Luis Roque](https://img.shields.io/github/followers/luisfroquez?label=follow&style=social)](https://github.com/luisfroquez)
-![Twitter Follow](https://img.shields.io/twitter/follow/zacata_dev?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/lroque_dev?style=social)
 
-I'm **Luis Roque**. Software Developer at <a href="https://www.linkedin.com/company/bechem-sudamerika-lubricantes/mycompany/" target="_blank"> Bechem Sudamerika.</a>
-
-Graphic designer and Blockchain world enthusiast.
+I'm **Luis Roque**. Software Developer at <a href="https://www.linkedin.com/company/siim-ingenieria" target="_blank"> SIIM Ingeniería.</a>
 
 **Skilled in TypeScript, JavaScript, React JS, React Native, NodeJS, HTML, CSS, AI, PSD to WordPress, PSD to HTML, User Experience, C#, Phyton, and WordPress.**
 
@@ -20,13 +18,13 @@ As I told you before, I'm a graphic designer who has worked on projects of all k
 
 I master the necessary tools and I am passionate about learning every day about new techniques, trends and solutions, daring to new areas. I feel design as an indispensable transmission tool to communicate values, ideas and especially emotions.
 
-- 🔭 I’m currently working as **Jr. Software Developer**
+- 🔭 I’m currently working as **SSr. Software Developer**
 - 🌱 I’m currently learning **Next.js, C# and Xamarin**
-- 👯 I’m looking to collaborate on open source/commercial projects
+- 👯 I’m looking to collaborate on open-source/commercial projects
 - 💬 Ask me about **Graphic Design and front end development**
 - 💼 [My portfolio website](https://roque-site.vercel.app/)
 - 📫 Let's be social:
-  **[Twitter](https://twitter.com/zacata_dev), [Instagram](https://instagram.com/luisfroquez)**
+  **[Twitter](https://twitter.com/lroque_dev), [Instagram](https://instagram.com/luisfroquez)**
     
  ## Some stats 📊
 
